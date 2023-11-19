@@ -75,7 +75,7 @@ body {
 /*header section*/
 .hero_area {
   height: 98vh;
-  background-image: url(../images/hero.jpg);
+  background-image: url(../images/Camp-Nou-2.webp);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -240,8 +240,8 @@ a:focus {
   width: 85%;
   margin-left: auto;
   margin-right: auto;
-  padding: 75px 45px;
-  background-image: url(../images/about.jpg);
+  padding: 197px 45px;
+  background-image: url(../images/JOAO\ FELIX.webp);
   background-size: auto 100%;
   background-color: #fff;
   background-position: center;
@@ -358,7 +358,7 @@ a:focus {
 
 .contact_section {
   color: #fff;
-  background: url(../images/contact-bg.jpg);
+  background: url(../images/camisetas\ fondo.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -499,7 +499,7 @@ a:focus {
 }
 
 .info_section {
-  background-image: url(../images/info-bg.jpg);
+  background-image: url(../images/Camp-Nou-4.webp);
   background-size: cover;
   background-attachment: fixed;
 }
